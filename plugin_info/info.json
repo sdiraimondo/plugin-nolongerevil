@@ -1,0 +1,31 @@
+{
+	"id": "nolongerevil",
+	"name": "No Longer Evil (Nest)",
+	"pluginVersion": "0.1.0",
+	"description": {
+		"fr_FR": "Pilotez votre thermostat Nest débloqué via le projet No Longer Evil (API cloud). Température, mode HVAC, mode éco/absence.",
+		"en_US": "Control your Nest thermostat unlocked via the No Longer Evil project (cloud API). Temperature, HVAC mode, eco/away mode."
+	},
+	"licence": "AGPL",
+	"author": "OpenCode",
+	"require": "4.4",
+	"category": "devicecommunication",
+	"hasDependency": false,
+	"hasOwnDeamon": false,
+	"maxDependancyInstallTime": 0,
+	"changelog": "https://github.com/jeedom/plugin-nolongerevil/blob/main/docs/fr_FR/changelog.md",
+	"documentation": "https://github.com/jeedom/plugin-nolongerevil/blob/main/docs/fr_FR/index.md",
+	"language": [
+		"fr_FR",
+		"en_US"
+	],
+	"compatibility": [
+		"smart",
+		"luna",
+		"atlas",
+		"rpi",
+		"docker",
+		"diy",
+		"mobile"
+	]
+}
